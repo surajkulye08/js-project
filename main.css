@@ -1,0 +1,37 @@
+body {
+    border: cyan;
+    background-color: solid red;
+    margin-top: 20px;
+    background-color: rgb(19, 20, 25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clockContainer {
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+#dateContainer {
+    color: #17D4FE;
+    font-size: 30px;
+    font-family: Orbitron;
+    letter-spacing: 3px;
+    align-items: center;
+    justify-content: center;
+}
+
+#mainContainer {
+    text-align: center;
+    color: cyan;
+    width: 500px;
+}
+
+#set {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
